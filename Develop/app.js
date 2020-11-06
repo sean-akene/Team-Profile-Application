@@ -93,7 +93,7 @@ const jobTitle = {
   const toNextEmployee = {
     type: "confirm",
     name: "nextEmployee",
-    message: "Do you wantn to enter another employee? ",
+    message: "Do you want to enter another employee? ",
     default: true,
   };
   
